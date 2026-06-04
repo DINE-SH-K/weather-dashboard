@@ -102,6 +102,7 @@ h1{
 }
 .forecast h2{
     margin-top: 25px;
+    color:#D62828;
 }
 .cards{
     display: flex;
